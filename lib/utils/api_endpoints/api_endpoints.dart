@@ -1,6 +1,7 @@
 class ApiEndpoints {
-  static const String baseUrl =
-      'https://square-optimum-muskrat.ngrok-free.app/';
+  // static const String baseUrl =
+  //     'https://square-optimum-muskrat.ngrok-free.app/';
+  static const String baseUrl = 'https://hrpro-backend-ridhorezi.vercel.app//';
   static const String signUpUrl = 'api/signup';
   static const String signInUrl = 'api/signin';
   static const String logoutUrl = 'api/logout';
